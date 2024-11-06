@@ -1,3 +1,3 @@
 # testrepo
 
-1er paso en lacreacion del Repo
+1er paso en la creacion del Repo
